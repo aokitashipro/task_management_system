@@ -1,0 +1,53 @@
+.test {
+  color: red; }
+
+/* index */
+.box{
+  margin:0 10px;
+  padding:0 10px 5px;
+}
+
+/*# sourceMappingURL=app.css.map */
+
+.font_orange{
+  color:#ff5e19;
+}
+
+.font_red{
+  color:#db245b;
+}
+
+/*sort */
+.sort.desc:after {
+  content:"▼";
+}
+.sort.asc:after {
+  content:"▲";
+}
+
+/* border */
+
+
+.red-b {
+  border: red 1px solid;
+}
+
+.blue-b {
+  border: blue 1px solid;
+}
+
+.green-b{
+  border: green 1px solid;
+}
+/* Style s*/
+.mgb10{
+	margin-bottom:10px;
+}
+
+.mgb20{
+	margin-bottom:20px;
+}
+
+.height150{
+	height:150px;
+}
